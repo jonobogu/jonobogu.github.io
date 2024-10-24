@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jonobogu.github.io/sitemap/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/PvO/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/jUi/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/RZw/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/dXN/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/KTg/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/ZbC/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/qUV/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/oQp/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/qvo/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/csr/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/WMR/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/OrZ/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/deM/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/RDo/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/jca/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/gFO/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/OoM/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/LhS/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/XOf/sitemap_index.jonobogu
+Sitemap: https://jonobogu.github.io/Zsh/sitemap_index.jonobogu
